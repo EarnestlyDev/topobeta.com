@@ -1,0 +1,4 @@
+baseURL = 'https://topobeta.com/'
+languageCode = 'en-us'
+title = 'TopoBeta'
+theme = 'ananke'
