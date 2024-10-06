@@ -21,8 +21,6 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroContent = """
 
-![](logo-full-300px.png#logo)
-
 **Topo**_(graphic)_: use of contour lines to represent the shape and elevation of land on a map.
 
 **Beta**: information about a route that may be helpful for someone traveling along it.
