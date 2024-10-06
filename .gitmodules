@@ -1,0 +1,4 @@
+[submodule "themes/typo-fork"]
+	path = themes/typo-fork
+	url = https://github.com/EarnestlyDev/typo-theme.git
+	branch = topobeta
