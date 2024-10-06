@@ -1,7 +1,7 @@
 baseURL = 'https://topobeta.com/'
 languageCode = 'en-us'
 title = 'Topo Beta'
-theme = 'typo'
+theme = 'typo-fork'
 
 [taxonomies]
 tag = 'tags'
@@ -20,11 +20,14 @@ hideHeader = false
 
 # Intro on main page, content is markdown
 homeIntroContent = """
+
+![](logo-full-300px.png#logo)
+
 **Topo**_(graphic)_: use of contour lines to represent the shape and elevation of land on a map.
 
-**Beta**: information about a route that may be helpful for someone traveling along it (commonly used in the rock climbing community).
+**Beta**: information about a route that may be helpful for someone traveling along it.
 
-**Topo Beta** aims to help people get information about hiking and backpacking with a general focus on the Tennessee area. For more info take a look at the [About](/about) page, or check out some of the posts below.
+**Topo Beta** aims to help people get information about hiking and backpacking with a general focus on the Tennessee area.
 """
 
 # Collection to display on home
