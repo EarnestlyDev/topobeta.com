@@ -25,7 +25,7 @@ homeIntroContent = """
 
 **Beta**: information about a route that may be helpful for someone traveling along it.
 
-**Topo Beta** is _[about](/about)_ providing trail tested high quality information about hiking and backpacking.
+**Topo Beta** is [about](/about) providing trail tested high quality information about hiking and backpacking.
 
 """
 
@@ -73,10 +73,6 @@ url = "/tags/gear"
 [[params.menu]]
 name = "food"
 url = "/tags/food"
-
-#[[params.menu]]
-#name = "about"
-#url = "/about"
 
 # Syntax highligth on code blocks
 [markup]
