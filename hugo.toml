@@ -25,7 +25,7 @@ homeIntroContent = """
 
 **Beta**: information about a route that may be helpful for someone traveling along it.
 
-**Topo Beta** is [about](/about) providing trail tested high quality information about hiking and backpacking.
+**Topo Beta** aims to provide trail tested quality information that's been trail tested about hiking and backpacking.
 
 """
 
@@ -45,7 +45,7 @@ showTags = true
 readTime = true
 
 showFooter = true
-footerContent = "*TopoBeta is a venture from [Earnestly Developing](https://earnestly.dev).*"
+footerContent = "[About](/about) | [Contact](#)"
 
 # Social icons
 

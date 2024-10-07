@@ -1,7 +1,6 @@
 +++
 title = 'My First Post'
 date = 2024-10-05T14:01:49-05:00
-tags = ["about", "techniques"]
 summary = "this all about it"
 +++
 
