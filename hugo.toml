@@ -45,7 +45,7 @@ showTags = true
 readTime = true
 
 showFooter = true
-footerContent = "[About](/about) | [Contact](#)"
+footerContent = "[About](/about) | "
 
 # Social icons
 
