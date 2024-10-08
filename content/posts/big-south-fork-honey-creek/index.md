@@ -3,7 +3,6 @@ title = 'Big South Fork Honey Creek'
 date = 2024-10-07T21:03:10-05:00
 summary = "One of the more interesting and challenging hikes in Big South Fork."
 tags = ["treks"]
-draft = true
 +++
 
 The [Big South Fork National River & Recreation Area](https://www.nps.gov/biso/index.htm) is one of my favorite areas in and around Tennessee for hiking and backpacking. There’s everything from developed campgrounds to day hikes to primitive fully dispersed camping. There are high overlooks, caves, waterfalls, natural bridges, amazing rock formations, varying types of forest, and enough trails to easily spend several weeks hiking if you wanted to. There’s a good selection of maps and books available that capture lots of relevant details (see the Resources section below for a few of my favorites).
