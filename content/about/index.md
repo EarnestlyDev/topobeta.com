@@ -12,4 +12,4 @@ I've been living in Tennessee since 2012, and went on my first "real" backpackin
 
 **I started Topo Beta to help people get information about hiking and backpacking with a general focus on the Tennessee area.** If you follow along, you'll find regular updates about [**destinations**](/tags/destinations) (where are some good places to hike?), [**techniques**](/tags/techniques) (how can you get started or become a better hiker?), [**gear**](/tags/gear) recommendations (what do you need to go hiking?), and [**food**](/tags/food) (cooking in the backcountry is a little different).  **My goal is for Topo Beta to be practical and useful (aka Practically Useful).** You won't find information about glamping, or RVs, or cabin rentals, or whitewater rafting, or offroading, or birdwatching (to pick a few things). You definitely won't find obnoxious ads that takeover the site and make it frustrating to read.
 
-If this sounds interesting to you, I hope you'll follow along!
+If this sounds interesting to you, consider clicking the "Subscribe!" link below to get notified when I post new content!

@@ -30,7 +30,6 @@ homeIntroContent = """
 """
 
 # Collection to display on home
-#homeCollectionTitle = 'Posts'
 homeCollection = 'posts'
 
 # Lists parameters
