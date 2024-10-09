@@ -1,6 +1,6 @@
 +++
 title = 'Big South Fork Honey Creek'
-date = 2024-10-07T21:03:10-05:00
+date = 2024-10-02T12:00:00-05:00
 summary = "One of the more interesting and challenging hikes in Big South Fork."
 tags = ["treks"]
 +++
